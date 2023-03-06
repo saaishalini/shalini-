@@ -1,0 +1,9 @@
+Benefits of the version control system:
+
+Enhances the project development speed by providing efficient collaboration,
+Leverages the productivity, expedites product delivery, and skills of the employees through better communication and assistance,
+Reduce possibilities of errors and conflicts meanwhile project development through traceability to every small change,
+Employees or contributors of the project can contribute from anywhere irrespective of the different geographical locations through this VCS,
+For each different contributor to the project, a different working copy is maintained and not merged to the main file unless the working copy is validated. The most popular example is Git, Helix core, Microsoft TFS,
+Helps in recovery in case of any disaster or contingent situation,
+Informs us about Who, What, When, Why changes have been made.
